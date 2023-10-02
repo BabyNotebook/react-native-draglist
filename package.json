@@ -13,7 +13,8 @@
     "release": "release-it"
   },
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "keywords": [
     "react",
